@@ -4,7 +4,7 @@ This repository contains Java programs for practicing core Java concepts, from b
 ---
 
 ## 📌 Contents
- **HelloWorld** – A simple starter program that prints "Hello, World!" 
+ **Starter Program** – A simple starter program that prints "Hello, World!" 
     
 ```java
 public class HelloWorld {
@@ -13,5 +13,4 @@ public class HelloWorld {
     }
 }
 
----
-
+```
