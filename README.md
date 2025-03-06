@@ -21,4 +21,4 @@ public class HelloWorld {
 
  ---
 
- **Bit Masking and Bit Merging** – Bit Masking is used to extract specific bits and the bit merging is used to combine different bits."
+ **Bit Masking and Bit Merging** – Bit Masking is used to extract specific bits and the bit merging is used to combine different bits.
