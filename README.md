@@ -18,3 +18,7 @@ public class HelloWorld {
 ---
 
  **Operators** – Operators are the one that are used to perform mathematical operations."
+
+ ---
+
+ **Bit Masking and Bit Merging** – Bit Masking is used to extract specific bits and the bit merging is used to combine different bits."
