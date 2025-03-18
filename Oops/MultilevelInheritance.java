@@ -1,3 +1,5 @@
+package Oops;
+
 class Animal{
     String name = "Cheetah";
 

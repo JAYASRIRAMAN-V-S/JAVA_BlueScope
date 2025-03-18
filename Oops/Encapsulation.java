@@ -3,6 +3,7 @@
 //Packages
 
 //Sub Classes
+package Oops;
 
 //Main Class
 public class Encapsulation {

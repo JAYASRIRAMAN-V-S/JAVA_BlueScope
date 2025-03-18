@@ -1,3 +1,5 @@
+package Basics;
+
 public class BitMerging {
     public static void main(String[] args) {
         int num = 172;

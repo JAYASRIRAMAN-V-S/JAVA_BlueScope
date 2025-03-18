@@ -1,4 +1,6 @@
 // Interface
+package Oops;
+
 interface Animal0001 {
     void makeSound(); // Abstract method (no implementation)
 }

@@ -1,3 +1,5 @@
+package Basics;
+
 class StringClassPrinting{
     public static void main(String[] args) {
         String str = "Hello";

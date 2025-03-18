@@ -1,4 +1,4 @@
-package org.example;
+package Jdbc_test.src.main.java.org.example;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

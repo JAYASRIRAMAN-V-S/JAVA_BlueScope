@@ -1,3 +1,5 @@
+package Basics;
+
 public class BitMasking {
     public static void main(String[] args) {
         int num = 172;

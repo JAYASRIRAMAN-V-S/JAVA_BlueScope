@@ -1,5 +1,6 @@
 // super :- it is used to access the methods from another class
 // this :- it is used to access another methode from the same class
+package Basics;
 class Vehicles{
     void showDetails1(){
         System.out.println("Vehicle Details");
